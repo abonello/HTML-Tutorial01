@@ -1,3 +1,32 @@
 body {
-	background-image: url(images/loading.gif)
+	/*background-image: url(../images/14196352_Swatch.jpg)
+	background-image: url(../images/loading.gif)
+	background-image: url(../images/progress.gif)
+	background-image: url(../images/spinner.gif)
+	background-image: url(../images/tree_top_right.gif)
+	background-image: url(../images/14196408_Swatch.jpg)*/
+	/*background-image: url(../images/anchor-icon.png)
+	background-image: url(../images/detail.png)*/ /*OK*/
+	/*background-image: url(../images/favicon-d3af1e412624de5a04cb2c8887c8635c.png)*/ /*OK*/
+	/*background-image: url(../images/icon_device_mobile.png)*/ /*OK*/
+	/*background-image: url(../images/message_has_attachment.png)*/ /*OK*/
+	/*background-image: url(../images/message_has_url.png)*/ /*OK*/
+	background-image: url(../images/21568089_Swatch.jpg) /*GOOD*/
+	/*background-image: url(../images/collapse_40b.png) /*GOOD*/
+}
+
+h1 {
+	color: #a89090;
+	color: #DEEF99;
+	
+}
+
+p {
+	color: #a89090;
+	color: #BC8956;
+	font-size: large;
+}
+
+b {
+	color: #F95410;
 }
