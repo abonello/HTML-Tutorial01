@@ -26,15 +26,18 @@ body {
 h1 {
 	color: #a89090;
 	color: #DEEF99;
+	color: #223355;
 	
 }
 
 p {
 	color: #a89090;
 	color: #BC8956;
+	color: #445566;
 	font-size: large;
 }
 
 b {
 	color: #F95410;
+	color: #d10040;
 }
