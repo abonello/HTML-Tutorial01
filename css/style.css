@@ -27,6 +27,7 @@ h1 {
 	color: #a89090;
 	color: #DEEF99;
 	color: #223355;
+	line-height: 80px;
 	
 }
 
@@ -40,4 +41,27 @@ p {
 b {
 	color: #F95410;
 	color: #d10040;
+}
+
+#mainContainer {
+	height: 1000px;
+	border: 1px solid black;
+}
+
+#mainTitle {
+	text-align: center;
+	background-color: red;
+	height: 80px;
+	width: 80%;
+	margin: 0 10%;
+	border-radius: 40px;
+}
+
+.paragraph {
+	border: 1px violet solid;
+	padding: 15px;
+	margin: 20px;
+	border-radius: 10px;
+	background-color: #8899aa;
+	background-color: #99aabb;
 }
